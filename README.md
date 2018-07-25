@@ -11,3 +11,6 @@ HackerRank 30 Days of Code Challenges (July-August 2018) written in Python 3.
 - [x] Day 7: Arrays
 - [ ] Day 8: Dictionaries and Maps
 - [x] Day 9: Recursion
+- [ ] Day 10: Binary Numbers
+- [ ] Day 11: 2D Arrays
+- [x] Day 12: Inheritance
