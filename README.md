@@ -17,7 +17,7 @@ HackerRank 30 Days of Code Challenges (July-August 2018) written in Python 3.
 - [ ] Day 13: Abstract Classes
 - [ ] Day 14: Scope
 - [ ] Day 15: Linked List
-- [ ] Day 16: Exceptions - String to Integer
+- [x] Day 16: Exceptions - String to Integer
 - [ ] Day 17: More Exceptions
 - [ ] Day 18: Queues and Stacks
 - [ ] Day 19: Interfaces
