@@ -1,5 +1,6 @@
-# 30DaysofCode
-HackerRank 30 Days of Code Challenges (July-August 2018) written in Python 3.
+30DaysofCode
+============
+HackerRank 30 Days of Code Challenges (July - August 2018) written in Python 3.
 
 - [x] Day 0: Hello World
 - [x] Day 1: Data Types
