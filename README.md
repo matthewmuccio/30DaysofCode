@@ -20,7 +20,7 @@ HackerRank 30 Days of Code Challenges (July - August 2018) written in Python 3.
 - [x] Day 15: Linked List
 - [x] Day 16: Exceptions - String to Integer
 - [x] Day 17: More Exceptions
-- [ ] Day 18: Queues and Stacks
+- [x] Day 18: Queues and Stacks
 - [x] Day 19: Interfaces
 - [x] Day 20: Sorting
 - [ ] Day 21: Generics
