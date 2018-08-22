@@ -23,7 +23,7 @@ HackerRank 30 Days of Code Challenges (July - August 2018) written in Python 3.
 - [x] Day 18: Queues and Stacks
 - [x] Day 19: Interfaces
 - [x] Day 20: Sorting
-- [ ] Day 21: Generics
+- [x] Day 21: Generics (in Java 7/8)
 - [x] Day 22: Binary Search Trees
 - [ ] Day 23: BST Level-Order Traversal
 - [ ] Day 24: More Linked Lists
