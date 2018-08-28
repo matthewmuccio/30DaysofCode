@@ -30,5 +30,5 @@ HackerRank 30 Days of Code Challenges (July - August 2018) written in Python 3.
 - [x] Day 25: Running Time and Complexity
 - [x] Day 26: Nested Logic
 - [x] Day 27: Testing
-- [ ] Day 28: RegEx, Patterns, and Intro to Databases
+- [x] Day 28: RegEx, Patterns, and Intro to Databases
 - [ ] Day 29: Bitwise AND
