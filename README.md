@@ -1,6 +1,6 @@
 30DaysofCode
 ============
-HackerRank 30 Days of Code Challenges (July - August 2018) written in Python 3.
+HackerRank 30 Days of Code Challenges (July - August 2018) written in Python 3 (and Java for one exercise).
 
 - [x] Day 0: Hello World
 - [x] Day 1: Data Types
